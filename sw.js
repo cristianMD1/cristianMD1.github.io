@@ -9,10 +9,6 @@ self.addEventListener('install', (e) => {
       '/cristianMD1.github.io/1.jpg',
       '/cristianMD1.github.io/2.jpg',
       '/cristianMD1.github.io/3.jpg',
-      '/cristianMD1.github.io/images/goku1.jpg',
-      '/cristianMD1.github.io/images/goku2.jpg',
-      '/cristianMD1.github.io/images/goku3.jpg',
-      '/cristianMD1.github.io /images/goku4.jpg',
     ])),
   );
 });
