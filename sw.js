@@ -1,14 +1,14 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('fox-store').then((cache) => cache.addAll([
-      '/pwa-examples/a2hs/',
-      '/pwa-examples/a2hs/index.html',
-      '/pwa-examples/a2hs/index.js',
-      '/pwa-examples/a2hs/style.css',
-      '/pwa-examples/a2hs/images/goku1.jpg',
-      '/pwa-examples/a2hs/images/goku2.jpg',
-      '/pwa-examples/a2hs/images/goku3.jpg',
-      '/pwa-examples/a2hs/images/goku4.jpg',
+      '/cristianMD1.github.io/',
+      '/cristianMD1.github.io/index.html',
+      '/cristianMD1.github.io/index.js',
+      '/cristianMD1.github.io/style.css',
+      '/cristianMD1.github.io/images/goku1.jpg',
+      '/cristianMD1.github.io/images/goku2.jpg',
+      '/cristianMD1.github.io/images/goku3.jpg',
+      '/cristianMD1.github.io /images/goku4.jpg',
     ])),
   );
 });
