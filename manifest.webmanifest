@@ -1,15 +1,15 @@
 {
-  "background_color": "purple",
+  "background_color": "orange",
   "description": "Shows random fox pictures. Hey, at least it isn't cats.",
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/fox-icon.png",
+      "src": "icon/lap-icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures",
-  "short_name": "Foxes",
+  "name": "Sistemas Computacionales",
+  "short_name": "ISC",
   "start_url": "/cristianMD1.github.io /index.html"
 }
